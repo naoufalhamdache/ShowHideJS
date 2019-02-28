@@ -1,0 +1,25 @@
+#contenant{
+	position: relative;
+	overflow: hidden;
+	width: 500px;
+	height: 300px;
+}
+
+#img1{
+	width: 500px;
+	height: 300px;
+}
+
+#showhide{
+	width: 80px;
+	position: absolute;
+	margin-left: 210px;
+	margin-right: 210px;
+	bottom: 0px;
+}
+#showhide2{
+	width: 80px;
+	position: absolute;
+	margin-left: 210px;
+	margin-right: 210px;
+}
